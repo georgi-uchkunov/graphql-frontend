@@ -1,0 +1,1 @@
+Project to test grapqhl frontend and backend based on example from university
